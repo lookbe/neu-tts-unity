@@ -1,0 +1,20 @@
+{
+    "name": "ai.lookbe.neutts",
+    "version": "0.0.1",
+    "displayName": "NeuTTS Unity",
+    "description": "NeuTTS for Unity",
+    "unity": "2021.3",
+    "keywords": [
+        "tts",
+        "ai"
+    ],
+    "author": {
+        "name": "lookbe"
+    },
+	"samples": [
+    {
+	  "displayName": "Basic NeuTTS",
+	  "description": "Shows the basic NeuTTS usage.",
+	  "path": "Samples~/BasicNeuTTS"
+    }]
+}
